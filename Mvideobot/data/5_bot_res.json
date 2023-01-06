@@ -1,0 +1,306 @@
+[
+    {
+        "id": "30064150",
+        "name": "Видеокарта MSI GeForce RTX 3070 VENTUS 3X OC",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-geforce-rtx-3070-ventus-3x-oc-30064150",
+        "basePrice": 65999,
+        "salePrice": 65999,
+        "bonus": 1980
+    },
+    {
+        "id": "30065822",
+        "name": "Видеокарта Zotac GeForce RTX 3070TI Trinity OC 8GB GDDR6X LHR",
+        "link": "https://www.mvideo.ru/products/videokarta-zotac-geforce-rtx-3070ti-trinity-oc-8gb-gddr6x-lhr-30065822",
+        "basePrice": 63999,
+        "salePrice": 63999,
+        "bonus": 1920
+    },
+    {
+        "id": "30065820",
+        "name": "Видеокарта Zotac GeForce GTX 1650 OC 4GB GDDR6 128-bit Gaming",
+        "link": "https://www.mvideo.ru/products/videokarta-zotac-geforce-gtx-1650-oc-4gb-gddr6-128-bit-gaming-30065820",
+        "basePrice": 14999,
+        "salePrice": 14999,
+        "bonus": 450
+    },
+    {
+        "id": "30065824",
+        "name": "Видеокарта Zotac GeForce RTX 2060 Gaming AMP 6GB GDDR6 192bit",
+        "link": "https://www.mvideo.ru/products/videokarta-zotac-geforce-rtx-2060-gaming-amp-6gb-gddr6-192bit-30065824",
+        "basePrice": 29999,
+        "salePrice": 29999,
+        "bonus": 900
+    },
+    {
+        "id": "400049858",
+        "name": "Видеокарта Palit GeForce RTX 4080 GAMEROCK OMNIBLACK 16GB",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-geforce-rtx-4080-gamerock-omniblack-16gb-400049858",
+        "basePrice": 105999,
+        "salePrice": 105999,
+        "bonus": 3180
+    },
+    {
+        "id": "30065819",
+        "name": "Видеокарта XFX Radeon RX 6600 XT SPEEDSTER Swift 210 8GB GDDR6",
+        "link": "https://www.mvideo.ru/products/videokarta-xfx-radeon-rx-6600-xt-speedster-swift-210-8gb-gddr6-30065819",
+        "basePrice": 36999,
+        "salePrice": 36999,
+        "bonus": 1110
+    },
+    {
+        "id": "30064151",
+        "name": "Видеокарта MSI GeForce RTX 3080 VENTUS 3X PLUS 12G OC LHR",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-geforce-rtx-3080-ventus-3x-plus-12g-oc-lhr-30064151",
+        "basePrice": 96999,
+        "salePrice": 96999,
+        "bonus": 2910
+    },
+    {
+        "id": "400049861",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4080 GAMING OC 16GB",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-geforce-rtx-4080-gaming-oc-16gb-400049861",
+        "basePrice": 116899,
+        "salePrice": 116899,
+        "bonus": 3507
+    },
+    {
+        "id": "30061285",
+        "name": "Видеокарта MSI PCIE16 GT730 4GB DDR3",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-pcie16-gt730-4gb-ddr3-30061285",
+        "basePrice": 8499,
+        "salePrice": 8499,
+        "bonus": 255
+    },
+    {
+        "id": "400049860",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4080 EAGLE OC 16GB",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-geforce-rtx-4080-eagle-oc-16gb-400049860",
+        "basePrice": 111899,
+        "salePrice": 111899,
+        "bonus": 3357
+    },
+    {
+        "id": "30063778",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3060 EAGLE OC 12G (rev. 2.0)",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-geforce-rtx-3060-eagle-oc-12g-rev-20-30063778",
+        "basePrice": 43999,
+        "salePrice": 43999,
+        "bonus": 1320
+    },
+    {
+        "id": "400049758",
+        "name": "Видеокарта Zotac GeForce RTX 4090 AMP EXTREME AIRO 24GB",
+        "link": "https://www.mvideo.ru/products/videokarta-zotac-geforce-rtx-4090-amp-extreme-airo-24gb-400049758",
+        "basePrice": 174999,
+        "salePrice": 174999,
+        "bonus": 5250
+    },
+    {
+        "id": "30062475",
+        "name": "Видеокарта Sapphire Radeon RX6600 8GB PULSE (11310-01-20G)",
+        "link": "https://www.mvideo.ru/products/videokarta-sapphire-radeon-rx6600-8gb-pulse-11310-01-20g-30062475",
+        "basePrice": 26499,
+        "salePrice": 26499,
+        "bonus": 795
+    },
+    {
+        "id": "30061284",
+        "name": "Видеокарта MSI PCIE16 GT210 1GB GDDR3",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-pcie16-gt210-1gb-gddr3-30061284",
+        "basePrice": 3599,
+        "salePrice": 3599,
+        "bonus": 108
+    },
+    {
+        "id": "30061173",
+        "name": "Видеокарта MSI N730K-2GD3/LP",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-n730k-2gd3-lp-30061173",
+        "basePrice": 5999,
+        "salePrice": 5999,
+        "bonus": 180
+    },
+    {
+        "id": "30065816",
+        "name": "Видеокарта PNY GeForce RTX 3070 Ti 8GB XLR8 Gaming UPRISING Edition",
+        "link": "https://www.mvideo.ru/products/videokarta-pny-geforce-rtx-3070-ti-8gb-xlr8-gaming-uprising-edition-30065816",
+        "basePrice": 62999,
+        "salePrice": 62999,
+        "bonus": 1890
+    },
+    {
+        "id": "400049760",
+        "name": "Видеокарта Zotac GeForce RTX 4090 TRINITY OC 24GB",
+        "link": "https://www.mvideo.ru/products/videokarta-zotac-geforce-rtx-4090-trinity-oc-24gb-400049760",
+        "basePrice": 169999,
+        "salePrice": 169999,
+        "bonus": 5100
+    },
+    {
+        "id": "400050470",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4080 AORUS XTREME WATERFORCE WB 16GB",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-geforce-rtx-4080-aorus-xtreme-waterforce-wb-16gb-400050470",
+        "basePrice": 122899,
+        "salePrice": 122899,
+        "bonus": 3687
+    },
+    {
+        "id": "30063779",
+        "name": "Видеокарта MSI GeForce RTX 3060 Ti Gaming X 8G LHR",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-geforce-rtx-3060-ti-gaming-x-8g-lhr-30063779",
+        "basePrice": 46799,
+        "salePrice": 46799,
+        "bonus": 1404
+    },
+    {
+        "id": "30065817",
+        "name": "Видеокарта PNY GeForce RTX 3070 8GB Dual Fan",
+        "link": "https://www.mvideo.ru/products/videokarta-pny-geforce-rtx-3070-8gb-dual-fan-30065817",
+        "basePrice": 53999,
+        "salePrice": 53999,
+        "bonus": 1620
+    },
+    {
+        "id": "30058222",
+        "name": "Видеокарта GIGABYTE AORUS GeForce RTX 3080 Ti MASTER 12GВ",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-aorus-geforce-rtx-3080-ti-master-12gv-30058222",
+        "basePrice": 139999,
+        "salePrice": 139999,
+        "bonus": 4200
+    },
+    {
+        "id": "30061072",
+        "name": "Видеокарта MSI RTX 3070TI VENTUS 3X OC 8GB LHR",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-rtx-3070ti-ventus-3x-oc-8gb-lhr-30061072",
+        "basePrice": 109999,
+        "salePrice": 109999,
+        "bonus": 3300
+    },
+    {
+        "id": "30059897",
+        "name": "Видеокарта GIGABYTE PCIE16 RTX3060TI 8GB LHR",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-pcie16-rtx3060ti-8gb-lhr-30059897",
+        "basePrice": 91999,
+        "salePrice": 91999,
+        "bonus": 2760
+    },
+    {
+        "id": "30061961",
+        "name": "Видеокарта Palit RTX3080 12GB LHR GamingPro",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-rtx3080-12gb-lhr-gamingpro-30061961",
+        "basePrice": 111499,
+        "salePrice": 111499,
+        "bonus": 3345
+    },
+    {
+        "id": "30061921",
+        "name": "Видеокарта GIGABYTE PCIE16 RTX3050 8GB GDDR6 GV-N3050GAMING OC-8GD",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-pcie16-rtx3050-8gb-gddr6-gv-n3050gaming-oc-8gd-30061921",
+        "basePrice": 44999,
+        "salePrice": 44999,
+        "bonus": 1350
+    },
+    {
+        "id": "30032095",
+        "name": "Видеокарта MSI GeForce GT 730 2GB Silent LP",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-geforce-gt-730-2gb-silent-lp-30032095",
+        "basePrice": 6199,
+        "salePrice": 6199,
+        "bonus": 186
+    },
+    {
+        "id": "30056335",
+        "name": "Видеокарта GIGABYTE Radeon RX 6700 XT GAMING OC 12G",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-radeon-rx-6700-xt-gaming-oc-12g-30056335",
+        "basePrice": 49799,
+        "salePrice": 49799,
+        "bonus": 1494
+    },
+    {
+        "id": "30064152",
+        "name": "Видеокарта MSI Radeon RX 6700 XT MECH 2X 12G",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-radeon-rx-6700-xt-mech-2x-12g-30064152",
+        "basePrice": 41999,
+        "salePrice": 41999,
+        "bonus": 1260
+    },
+    {
+        "id": "30062435",
+        "name": "Видеокарта MSI RTX 3070 Ti SUPRIM X 8G (912-V505-010)",
+        "link": "https://www.mvideo.ru/products/videokarta-msi-rtx-3070-ti-suprim-x-8g-912-v505-010-30062435",
+        "basePrice": 162999,
+        "salePrice": 162999,
+        "bonus": 4890
+    },
+    {
+        "id": "30057327",
+        "name": "Видеокарта GIGABYTE Aorus GeForce RTX 3080 MASTER 10GB",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-aorus-geforce-rtx-3080-master-10gb-30057327",
+        "basePrice": 82999,
+        "salePrice": 82999,
+        "bonus": 2490
+    },
+    {
+        "id": "30057855",
+        "name": "Видеокарта Palit RTX3080Ti GameRock 12GB",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-rtx3080ti-gamerock-12gb-30057855",
+        "basePrice": 176999,
+        "salePrice": 176999,
+        "bonus": 5310
+    },
+    {
+        "id": "30057805",
+        "name": "Видеокарта Palit GeForce RTX 3080 Ti GamingPro 12G",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-geforce-rtx-3080-ti-gamingpro-12g-30057805",
+        "basePrice": 117999,
+        "salePrice": 117999,
+        "bonus": 3540
+    },
+    {
+        "id": "30062467",
+        "name": "Видеокарта GIGABYTE Radeon RX6600XT GAMING 8G(GV-R66XTGAMING OC-8GD)",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-radeon-rx6600xt-gaming-8ggv-r66xtgaming-oc-8gd-30062467",
+        "basePrice": 39799,
+        "salePrice": 39799,
+        "bonus": 1194
+    },
+    {
+        "id": "30056549",
+        "name": "Видеокарта Palit PA-RTX2060 Dual 6G",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-pa-rtx2060-dual-6g-30056549",
+        "basePrice": 52999,
+        "salePrice": 52999,
+        "bonus": 1590
+    },
+    {
+        "id": "30056547",
+        "name": "Видеокарта Palit PA-RTX2060 SUPER DUAL 8G",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-pa-rtx2060-super-dual-8g-30056547",
+        "basePrice": 28999,
+        "salePrice": 28999,
+        "bonus": 870
+    },
+    {
+        "id": "30055280",
+        "name": "Видеокарта GIGABYTE GV-N3070GAMING OC-8GD",
+        "link": "https://www.mvideo.ru/products/videokarta-gigabyte-gv-n3070gaming-oc-8gd-30055280",
+        "basePrice": 52999,
+        "salePrice": 52999,
+        "bonus": 1590
+    },
+    {
+        "id": "400050467",
+        "name": "Видеокарта Palit GeForce RTX 4090 GAMEROCK OMNIBLACK 24GB",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-geforce-rtx-4090-gamerock-omniblack-24gb-400050467",
+        "basePrice": 166499,
+        "salePrice": 166499,
+        "bonus": 4995
+    },
+    {
+        "id": "30065815",
+        "name": "Видеокарта Palit Geforce RTX 3090 Gaming Pro 24G GDDR6X",
+        "link": "https://www.mvideo.ru/products/videokarta-palit-geforce-rtx-3090-gaming-pro-24g-gddr6x-30065815",
+        "basePrice": 109999,
+        "salePrice": 109999,
+        "bonus": 3300
+    }
+]
