@@ -31,7 +31,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -52,7 +52,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -73,7 +73,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -94,7 +94,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -115,7 +115,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -136,7 +136,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -157,7 +157,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
@@ -178,7 +178,7 @@ async def get_discount_knives(message: types.Message):
 
     for index, item in enumerate(data):
         card = f'{hlink(item.get("name"), item.get("link"))}\n' \
-               f'{hbold("Цена после скидки: ")}₽{item.get("basePrice")}\n' \
+               f'{hbold("Цена до скидки: ")}₽{item.get("basePrice")}\n' \
                f'{hbold("Цена после скидки: ")}₽{item.get("salePrice")}🔥\n' \
                f'{hbold("Бонусы: ")}{item.get("bonus")}🍪\n'
 
